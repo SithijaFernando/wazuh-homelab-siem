@@ -53,7 +53,7 @@ This project demonstrates practical **SIEM**, **endpoint monitoring**, and **blu
 |---|-- agent-status.png <br>
 |---|-- alerts.png <br>
 |-- attacks/ <br>
-|---|-- brute-force-test.md
+|---|-- brute-force-test.md <br>
 |---|-- powershell-test.md 
 
 ## Testing
